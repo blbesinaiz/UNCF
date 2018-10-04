@@ -131,7 +131,7 @@ int main()
 	k.printList();
 	
 	value = k.kthPlace(kTerm);
-	cout << "\nValue of number " << kTerm << " from end of the list: " << value;
+	cout << "\nValue of place " << kTerm << " from end of the list: " << value;
 	
 	
 	return 0;
